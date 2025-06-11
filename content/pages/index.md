@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Bause
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Inovação Tecnológica
     text: >
