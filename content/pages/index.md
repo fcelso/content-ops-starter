@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/natureza-morta-de-livros-versus-tecnologia_23-2150062875.avif
+      url: /images/Gemini_Generated_Image_wx2fouwx2fouwx2f.png
       altText: ''
       elementId: ''
       type: ImageBlock
