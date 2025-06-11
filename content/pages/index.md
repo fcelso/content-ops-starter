@@ -26,6 +26,7 @@ sections:
       altText: ''
       elementId: ''
       type: ImageBlock
+      url: /images/abstract-feature2.svg
     badge:
       label: ''
       color: text-primary
