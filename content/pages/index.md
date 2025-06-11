@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://wa.link/uxme9n'
         showIcon: false
         icon: arrowRight
         iconPosition: right
