@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Inovação Tecnológica
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Na Bause Tecnologia, convertemos seus desafios em soluções digitais
+      eficientes e inteligentes. Do planejamento estratégico à implementação e
+      suporte, somos seu parceiro ideal
     actions:
       - label: Get started
         altText: ''
