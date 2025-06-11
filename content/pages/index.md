@@ -13,7 +13,7 @@ sections:
       eficientes e inteligentes. Do planejamento estratégico à implementação e
       suporte, somos seu parceiro ideal
     actions:
-      - label: Get started
+      - label: Fale conosco
         altText: ''
         url: 'https://wa.link/uxme9n'
         showIcon: false
