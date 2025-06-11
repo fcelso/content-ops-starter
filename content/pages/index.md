@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/natureza-morta-de-livros-versus-tecnologia_23-2150062875.avif
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
